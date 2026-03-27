@@ -1,0 +1,11 @@
+.env
+
+# Python Stuff
+*.pyc
+.venv
+
+# C Stuff
+
+
+# C++ Stuff
+

@@ -1,0 +1,3 @@
+[submodule "CatToyBot"]
+	path = CatToyBot
+	url = https://github.com/spencerau/CatToyBot.git
